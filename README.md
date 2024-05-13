@@ -1,6 +1,6 @@
-# UI
+# Angular Boilerplate
 
-Boilerplate of how to implement clean architecture, stomic Design and Domanin-Driven Design with Angular
+Boilerplate of how to implement clean architecture, atomic Design and Domanin-Driven Design with Angular
 
 ## Table of Contents
 
