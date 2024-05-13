@@ -1,0 +1,7 @@
+<ul>
+    @if (sampleList$ | async; as list) {
+        @for (item of list.results; track item.name) {
+            <li>{{ item.name }}</li>
+        }
+    }
+</ul>
